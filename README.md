@@ -15,3 +15,6 @@ Terra calculator to compute the terra lunatic score given number of transactions
 
 5. https://gitcoin.co/issue/iotexproject/halogrants/44/100026326
 Create an algorithmicatlly stable coin on IoteX, this is a more advanced topic
+
+6. https://gitcoin.co/issue/pokt-foundation/bounties/2/100026896
+Create an off-chain discord bot for voting
