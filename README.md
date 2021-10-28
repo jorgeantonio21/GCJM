@@ -12,3 +12,6 @@ Create a temperature oracle on the IExec blockchain, this is interesting as I wo
 
 4. https://gitcoin.co/issue/terra-money/bounties/3/100026891
 Terra calculator to compute the terra lunatic score given number of transactions
+
+5. https://gitcoin.co/issue/iotexproject/halogrants/44/100026326
+Create an algorithmicatlly stable coin on IoteX, this is a more advanced topic
