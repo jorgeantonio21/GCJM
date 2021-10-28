@@ -18,3 +18,7 @@ Create an algorithmicatlly stable coin on IoteX, this is a more advanced topic
 
 6. https://gitcoin.co/issue/pokt-foundation/bounties/2/100026896
 Create an off-chain discord bot for voting
+
+7. https://gitcoin.co/issue/harmony-one/bounties/67/100026679
+Add unit tests to a specific Harmony functionality. Unit tests are always a great and efficient way to learn more :)
+
